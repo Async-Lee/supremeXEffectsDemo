@@ -12,7 +12,7 @@
 import supremeXEffects from '@assets/js/supremeXEffects.js'
 ```
 
-// 简单易用 明眼人一看就懂。总之秦牛正威🐂🍺
+// 简单易用 明眼人一看就懂。总之hqy🐂🍺
 ```
 let supremeXEffects = new SupremeXEffects(),
 params = {
