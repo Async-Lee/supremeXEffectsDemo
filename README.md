@@ -21,6 +21,6 @@ params = {
     width: 500,
     count: 40,
     color: ['red', 'white', 'gray']
-}<br>
-supremeXEffects.init(params)<br>
+}
+supremeXEffects.init(params)
 ```
