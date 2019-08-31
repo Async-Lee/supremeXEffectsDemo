@@ -1,5 +1,5 @@
 # supremeXEffectsDemo
-##三角形蜘蛛网 X supreme联名特效
+## 三角形蜘蛛网 X supreme联名特效
 
 // script引入
 <script src="supremeXEffects.js"></script>
