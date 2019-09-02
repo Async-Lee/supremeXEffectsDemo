@@ -2,6 +2,10 @@
 
 ## 三角形蜘蛛网 X supreme联名特效
 
+### 预览地址
+
+### https://async-lee.github.io/supremeXEffectsDemo/
+
 // script引入
 ```
 <script src="supremeXEffects.js"></script>
